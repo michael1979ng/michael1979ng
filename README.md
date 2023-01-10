@@ -31,7 +31,7 @@
 
 [twitter]: https://twitter.com/Michael200ng
 [instagram]: https://www.instagram.com/michael200ng/
-[linkedin]: https://www.linkedin.com/in/michael-eseigbe-245b8385/
+[linkedin]: https://www.linkedin.com/in/michael-eseigbe
 
 <!--
 
